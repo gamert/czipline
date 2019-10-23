@@ -21,7 +21,6 @@ test.log
 *.xlsx
 
 # Compiled python files
-*.py[co]
 
 # Packages
 *.egg
@@ -49,7 +48,6 @@ nosetests.xml
 *.c
 
 # Vim
-*.swp
 *.swo
 
 # Built documentation
@@ -85,3 +83,6 @@ README.ipynb
 
 .vs
 src/*.*
+/.eggs/
+/__pycache__/
+*.cp*-win_amd64.pyd

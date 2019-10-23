@@ -67,4 +67,3 @@ pyrepl>=0.8.4;python_version<'3.0'
 fancycompleter>=0.7
 wmctrl>=0.3
 
-# “==”更改为“>=”，使用最新版本的包

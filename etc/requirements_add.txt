@@ -1,9 +1,9 @@
-# Aè‚¡æ•°æ®å·¥å…·åŒ…
--e git+https://github.com/zhangshoug/cswd#egg=cswd
+# A¹ÉÊý¾Ý¹¤¾ß°ü
+# -e git+https://github.com/zhangshoug/cswd#egg=cswd
 
 cloudpickle>=0.2.1
 
-# blaze(ä¸‰éƒ¨åˆ†ï¼Œå…¶ä¸­odoä¸Žblazeå› networkxä½¿ç”¨ç‰ˆæœ¬2.1,æœ‰å°å¹…åº¦æ”¹åŠ¨)
+# blaze(Èý²¿·Ö£¬ÆäÖÐodoÓëblazeÒònetworkxÊ¹ÓÃ°æ±¾2.1,ÓÐÐ¡·ù¶È¸Ä¶¯)
 
 # 1. datashape
 datashape>=0.5.2
@@ -12,27 +12,27 @@ datashape>=0.5.2
 -e git+https://github.com/zhangshoug/odo#egg=odo
 
 # 3. blaze
--e git+https://github.com/liudengfeng/blaze#egg=blaze
+-e git+https://github.com/blaze/blaze#egg=blaze
 
-# é‡‘èžç»Ÿè®¡åŒ…`empyrical`
+# ½ðÈÚÍ³¼Æ°ü`empyrical`
 -e git+https://github.com/liudengfeng/empyrical#egg=empyrical
 
-# æŠ•èµ„ç»„åˆé£Žé™©åˆ†æžåŒ…`pyfolio`
+# Í¶×Ê×éºÏ·çÏÕ·ÖÎö°ü`pyfolio`
 -e git+https://github.com/liudengfeng/pyfolio#egg=pyfolio
 
 
-# é¢„æµ‹å› å­åˆ†æžåŒ…`alphalens`
+# Ô¤²âÒò×Ó·ÖÎö°ü`alphalens`
 #-e git+https://github.com/liudengfeng/alphalens#egg=alphalens
 
 
-# æŠ•èµ„ç»„åˆä¼˜åŒ–åŒ…
+# Í¶×Ê×éºÏÓÅ»¯°ü
 cvxpy>=1.0.3
 
-# ç»˜å›¾
-plotly>=2.7.0
+# »æÍ¼
+plotly>=3.9.0
 
-# é‡åŒ–åˆ†æžå›¾`alphalens`
+# Á¿»¯·ÖÎöÍ¼`alphalens`
 -e git+https://github.com/liudengfeng/cufflinks#egg=cufflinks
 
-# æ’ä»¶å·¥å…·
+# ²å¼þ¹¤¾ß
 ipywidgets>=7.2.1
